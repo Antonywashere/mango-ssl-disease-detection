@@ -81,10 +81,8 @@ Fill these in from your own runs.
 .
 ├── mango_ssl_stress_disease_detection.ipynb
 ├── README.md
-└── .gitignore
 ```
 
-`data/` and `checkpoints/` are created when you run the notebook and are not tracked by git.
 
 ## Limitations
 
