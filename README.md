@@ -80,7 +80,7 @@ Fill these in from your own runs.
 ```
 .
 ├── mango_ssl_stress_disease_detection.ipynb
-├── README.md
+└── README.md
 ```
 
 
